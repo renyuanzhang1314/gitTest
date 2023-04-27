@@ -1,0 +1,3 @@
+[submodule "VueGitTest"]
+	path = VueGitTest
+	url = git@github.com:renyuanzhang1314/VueGitTest.git
